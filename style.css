@@ -1,8 +1,13 @@
 h1{
-    background-color: maroon;
-    color: white;
+    background-color: yellow;
+    color: blue;
 }
 
 p{
-    color: green
+    color: black;
+    background-color: yellow;
+}
+
+.classname{
+    color:red;
 }
